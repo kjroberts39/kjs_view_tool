@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install kjs_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+KJsViewTool::Renderer.copyright 'K.J. Roberts', 'All rights reserved'
+```
 
 ## Development
 
